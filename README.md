@@ -16,7 +16,7 @@
 
 ### Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference. Information about <span data-click-image-zoomto="5128,1135,1710,1421">image interactions</span> can be found [here.](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag)
 <param ve-image 
        manifest="https://ids.si.edu/ids/manifest/ark:/65665/m366f8ac28cdf64aba99b33cb34f351b81">
 
